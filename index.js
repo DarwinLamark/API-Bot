@@ -88,4 +88,4 @@ bot.on('guildMemberRemove', member => {
     }).catch(console.error)
 });
 
-bot.login('NDM4NjY4NDMwMDkxMjIzMDQx.DcIJOw.ECz3BLoZMl8fu6vcPi42x3iVqxc') //token
+bot.login('') //token
